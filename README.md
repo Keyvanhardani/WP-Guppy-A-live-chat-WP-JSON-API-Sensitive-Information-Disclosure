@@ -6,4 +6,5 @@ Version: up to 1.1</br>
 Tested on: Kali Linux - Windows 10 - Wordpress 5.8.x and apache2</br>
 Usage ./exploit.sh -h </br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SMEhjlfEqCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SMEhjlfEqCk/0.jpg)](https://www.youtube.com/embed/SMEhjlfEqCk)
