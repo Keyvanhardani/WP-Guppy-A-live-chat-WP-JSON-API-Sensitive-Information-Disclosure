@@ -7,4 +7,4 @@ Tested on: Kali Linux - Windows 10 - Wordpress 5.8.x and apache2</br>
 Usage ./exploit.sh -h </br>
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SMEhjlfEqCk/0.jpg)](https://www.youtube.com/embed/SMEhjlfEqCk)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SMEhjlfEqCk/0.jpg)](https://www.youtube.com/watch?v=SMEhjlfEqCk)
