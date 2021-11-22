@@ -1,0 +1,1 @@
+# Exploit-Wordpress-Plugin-WP-Guppy-A-live-chat---WP-JSON-API-Sensitive-Information-Disclosure
