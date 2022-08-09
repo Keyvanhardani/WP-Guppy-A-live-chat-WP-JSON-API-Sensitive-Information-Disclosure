@@ -1,4 +1,5 @@
 Exploit Title: Wordpress Plugin WP Guppy A live chat - WP-JSON API Sensitive Information Disclosure</br>
+CVE: CVE-2021-24997<br>
 Exploit Author: Keyvan Hardani</br>
 Date: 22/11/2021</br>
 Vendor Homepage: https://wp-guppy.com/</br>
